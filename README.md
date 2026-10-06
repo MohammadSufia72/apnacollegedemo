@@ -1,3 +1,3 @@
 # apnacollegedemo
-this is my first repo<br>
+This is My First Repo<br>
 author : sufiya banu
